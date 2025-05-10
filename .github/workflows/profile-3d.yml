@@ -18,10 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Pull latest changes
-        id: git-pull
-        run: |
-          git pull origin main
+
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions"
