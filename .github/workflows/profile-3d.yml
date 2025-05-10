@@ -23,6 +23,8 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git config --global pull.rebase true
+          git pull --rebase origin main
           git add -A .
           git commit -m "generated" || echo "No changes to commit"
-          git push origin main || echo "Push failed"
+          git push
