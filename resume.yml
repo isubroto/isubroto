@@ -1,0 +1,318 @@
+sha: ''
+name: Subroto Saha
+bio: Full-Stack Developer with expertise in scalable systems, AI integration, and
+  automation using modern PERN stack (PostgreSQL, Express.js, React, Node.js) and
+  CI/CD pipelines.
+avatar: https://avatars.githubusercontent.com/u/104984001
+links:
+- title: (880) 1521-380 503
+  tooltip: Phone
+  url: tel:+8801521380503
+  icon: jam--phone
+  icon_alt: faPhone
+  emphasize: false
+- title: Subroto Saha
+  tooltip: LinkedIn
+  url: https://www.linkedin.com/in/isubrotosaha/
+  icon: jam--linkedin
+  icon_alt: faLinkedin
+  emphasize: false
+- title: isubroto
+  tooltip: GitHub
+  url: https://github.com/isubroto
+  icon: jam--github
+  icon_alt: faGithub
+  emphasize: true
+- title: Subroto Saha
+  tooltip: GitLab
+  url: https://gitlab.com/isubroto
+  icon: jam--gitlab
+  icon_alt: faGitlab
+  emphasize: false
+- title: isubrotosaha@gmail.com
+  tooltip: Email
+  url: mailto:isubrotosaha@gmail.com
+  icon: jam--envelope
+  icon_alt: faEnvelope
+  emphasize: true
+- title: isubroto.github.io
+  tooltip: Website
+  url: https://isubroto.github.io
+  icon: heroicons--globe-alt
+  icon_alt: faGlobe
+  emphasize: false
+skills:
+- title: Programming Languages
+  list:
+  - title: Python
+    confidence: 68
+    icon: devicon--python
+    emphasize: false
+  - title: C Sharp
+    confidence: 80
+    icon: devicon--csharp
+    emphasize: false
+  - title: JavaScript (Js)
+    confidence: 94
+    icon: devicon--javascript
+    emphasize: false
+  - title: TypeScript (Ts)
+    confidence: 96
+    icon: devicon--typescript
+    emphasize: false
+  - title: Rust
+    confidence: 20
+    icon: devicon--rust
+    emphasize: false
+  - title: Go
+    confidence: 20
+    icon: devicon--go
+    emphasize: false
+  - title: SQL
+    confidence: 70
+    icon: devicon--postgresql
+    emphasize: false
+  - title: Java
+    confidence: 50
+    icon: devicon--java
+    emphasize: false
+  - title: C++
+    confidence: 80
+    icon: devicon--cplusplus
+    emphasize: false
+- title: Frameworks
+  list:
+  - title: React
+    icon: devicon:react
+    emphasize: false
+  - title: Express JS
+    icon: devicon:express
+    emphasize: false
+  - title: Next JS
+    icon: devicon:nextjs
+    emphasize: false
+  - title: Nuxt.js
+    icon: devicon:nuxtjs
+    emphasize: false
+  - title: Vue JS
+    icon: devicon:vuejs
+    emphasize: false
+- title: Tools
+  list:
+  - title: Docker
+    icon: devicon:docker
+    emphasize: false
+  - title: Kubernetes
+    icon: devicon:kubernetes
+    emphasize: false
+  - title: vite
+    icon: devicon:vite
+    emphasize: false
+  - title: Git
+    icon: devicon:git
+    emphasize: false
+  - title: Node JS
+    icon: devicon:nodejs
+    emphasize: false
+- title: Platforms
+  list:
+  - title: AWS
+    icon: devicon:amazonwebservices-wordmark
+    emphasize: false
+  - title: Azure
+    icon: devicon:azure
+    emphasize: false
+  - title: Digital Ocean
+    icon: devicon:digitalocean
+    emphasize: false
+  - title: Heroku
+    icon: devicon:heroku
+    emphasize: false
+  - title: Firebase
+    icon: devicon:firebase
+    emphasize: false
+  - title: NeonDb
+    icon: devicon:neondb
+    emphasize: false
+pro_experience:
+  enabled: true
+  experiences:
+  - title: Bangladesh Education and Research Institute (BERI)
+    position: Senior Software Engineer (Project Lead)
+    location: Banani Road 23, Dhaka
+    start_date: January 2024
+    end_date: March 2025
+    responsibilities:
+    - Leading distinct Full-Stack, Front-end, UX, and App development teams with expertise
+      in software development, software architecture database design, and Dev-Ops.
+  - title: Bangladesh Education and Research Institute (BERI)
+    position: Software Engineer
+    location: Banani Road 23, Dhaka
+    start_date: October 2022
+    end_date: December 2023
+    responsibilities:
+    - Specialized in Full-Stack development, software architecture, database design,
+      team management, Dev-Ops
+project:
+  enabled: true
+  projects:
+  - title: hYPEX
+    reference: BERI
+    url: https://hypex.co.uk/
+    technologies:
+    - Xcart
+    - PHP
+    - MySQL
+    - Vue.js
+    - LazySizes
+    - jQuery UI
+    - jQuery
+    - Bootstrap
+    - etc.
+    description:
+    - Maintained the hypex website using CSS,JS and Template Modification, focusing
+      on responsive design, and consistent UI/UX.
+    - Managed and updated detailed product listings, optimizing content with SEO strategies
+      to enhance visibility and search engine rankings.
+    - Collaborated cross-functionally to improve website performance, resulting in
+      faster load times and increased user engagement.
+  - title: Beri
+    reference: Beri
+    url: https://www.beri.com.bd/
+    technologies:
+    - Wordpress
+    - PhP
+    - MySQL
+    - Apache
+    description:
+    - Bangladesh Education and Research Institute (BERI) is a center of education
+      and research excellence supported by advanced knowledge of information technology.
+      It brings affordable, high-quality education opportunities to Bangladesh and
+      is a leading offshore enterprise product and software development initiative.
+  - title: Orbit Middle East
+    reference: BERI
+    url: https://orbit-middle-east.vercel.app/home
+    technologies:
+    - React
+    - Git
+    - Docker
+    - Java Spring Boot
+    - MySQL
+    - AWS
+    description:
+    - Anintegrated platform for Manage Multiple organizations and evaluate KPI Factors
+      like Measure, Perspective,Objective, and Initiative.
+    - This platform is designed to streamline operations, enhance productivity, and
+      provide valuable insights for organizations in the Middle East.
+    - Based on that some Visualization like briefing, chart, report, dashboard and
+      strategy map Generated.
+    - Onreport section Structure Data Report, Annual Data Report, By Calendar Data
+      Report, Scorecard Attributes Data Report, etc.
+  - title: Taskroto
+    reference: Own
+    url: https://taskroto.isubroto.com.bd
+    technologies:
+    - Git
+    - Next.js
+    - PostgreSQL
+    - Docker
+    - Express.js
+    - Node.js
+    description:
+    - These tools help individuals and teams organize, prioritize, and track tasks
+      to ensure timely completion. They often include features like task lists, progress
+      tracking, collaboration tools, and deadline management.
+  - title: Skythr
+    reference: Own
+    url: https://skythr.isubroto.com.bd/
+    technologies:
+    - Git
+    - React
+    - PostgreSQL
+    - Docker
+    description:
+    - This weather application likely provides users with up-to-date meteorological
+      information for various locations. It would typically offer details such as
+      current temperature, humidity, wind speed, precipitation chances, and forecasts
+      for the coming hours or days.
+  - title: Subroto Saha Portfolio
+    reference: Own
+    url: https://potrfolio.isubroto.com.bd/
+    technologies:
+    - Git
+    - React
+    - PostgreSQL
+    - Docker
+    description:
+    - This portfolio website showcases the work and skills of Subroto Saha, a software
+      engineer. It likely includes information about his projects, experience, and
+      contact details, serving as a digital resume and professional showcase.
+  - title: AI CHATBOT
+    reference: Own
+    url: null
+    technologies:
+    - Git
+    - Linux
+    - Docker
+    - Python
+    - AWS
+    - VueJs
+    - Jira
+    - etc.
+    description:
+    - A chat bot Made with Python that is based on natural language can interact with
+      humans to replay some trained questions.
+  - title: RASAJS
+    reference: Own
+    url: null
+    technologies:
+    - Git
+    - Linux
+    - Docker
+    - Express.js
+    - Node.js
+    - etc.
+    description:
+    - The Rasa Node.js API enables integration of Rasa chatbots or voice assistants
+      into Node.js applications via HTTP requests, allowing you to send messages,
+      receive responses, and track conversation history.
+  - title: RASALOG
+    reference: Own
+    url: null
+    technologies:
+    - Git
+    - Linux
+    - Docker
+    - Express.js
+    - Node.js
+    - mongoDB
+    - etc.
+    description:
+    - A log system for Rasa chat records captures and stores details of user interactions
+      with the Rasa chatbot, including message texts, timestamps, user or session
+      IDs, and relevant contextual information.
+education:
+  enabled: true
+  institutes:
+  - title: American International University - Bangladesh (AIUB)
+    degree:
+    - Master of Science in Computer Science (MSc in CSE)
+    location: Dhaka, Bangladesh
+    start_date: 2022
+    end_date: 2022
+    description: null
+  - title: American International University - Bangladesh (AIUB)
+    degree:
+    - Bachelor of Science in Computer Science (BSc in CSE)
+    location: Dhaka, Bangladesh
+    start_date: 2015
+    end_date: 2018
+    description: null
+  - title: Lions School and College Saidpur (LSCS)
+    degree:
+    - Secondary School Certificate (SSC)
+    - Higher Secondary School Certificate (HSC)
+    location: Nilphamary, Bangladesh
+    start_date: 2002
+    end_date: 2014
+    description: null

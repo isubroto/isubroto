@@ -1,0 +1,84 @@
+- name: JavaScript
+  logo: javascript
+  url: https://www.javascript.com/
+  color: '#F7DF1E'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: TypeScript
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: '#007ACC'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: C#
+  logo: csharp
+  url: https://learn.microsoft.com/en-us/dotnet/csharp/
+  color: '#239120'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: Node.js
+  logo: nodejs
+  url: https://nodejs.org/
+  color: '#8CC84B'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: React
+  logo: react
+  url: https://reactjs.org/
+  color: '#61DAFB'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: Vue.js
+  logo: vuejs
+  url: https://vuejs.org/
+  color: '#42B883'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: Next.js
+  logo: nextjs
+  url: https://nextjs.org/
+  color: '#000000'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: Nuxt.js
+  logo: nuxtjs
+  url: https://nuxtjs.org/
+  color: '#00DC82'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: Express.js
+  logo: express
+  url: https://expressjs.com/
+  color: '#000000'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: PostgreSQL
+  logo: postgresql
+  url: https://www.postgresql.org/
+  color: '#336791'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: MongoDB
+  logo: mongodb
+  url: https://www.mongodb.com/
+  color: '#47A248'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3776AB'
+  projects:
+    - url: https://github.com/gleich/stack
+    - url: https://github.com/gleich/stack.js
