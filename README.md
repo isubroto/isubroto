@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [UI Version realised](https://github.com/isubroto/Temp-Cleaner/releases/tag/2.0.0) in [isubroto/Temp-Cleaner](https://github.com/isubroto/Temp-Cleaner)
-2. 🎉 Merged PR [#1](https://github.com/isubroto/Temp-Cleaner/pull/1) in [isubroto/Temp-Cleaner](https://github.com/isubroto/Temp-Cleaner)
-3. 💪 Opened PR [#1](https://github.com/isubroto/Temp-Cleaner/pull/1) in [isubroto/Temp-Cleaner](https://github.com/isubroto/Temp-Cleaner)
-4. 🗣 Commented on [#8109](https://github.com/gitbutlerapp/gitbutler/issues/8109#issuecomment-2799946513) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. ❗ Opened issue [#8109](https://github.com/gitbutlerapp/gitbutler/issues/8109) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 💪 Opened PR [#123](https://github.com/jamesgeorge007/github-activity-readme/pull/123) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🚀 Published release [UI Version realised](https://github.com/isubroto/Temp-Cleaner/releases/tag/2.0.0) in [isubroto/Temp-Cleaner](https://github.com/isubroto/Temp-Cleaner)
+3. 🎉 Merged PR [#1](https://github.com/isubroto/Temp-Cleaner/pull/1) in [isubroto/Temp-Cleaner](https://github.com/isubroto/Temp-Cleaner)
+4. 💪 Opened PR [#1](https://github.com/isubroto/Temp-Cleaner/pull/1) in [isubroto/Temp-Cleaner](https://github.com/isubroto/Temp-Cleaner)
+5. 🗣 Commented on [#8109](https://github.com/gitbutlerapp/gitbutler/issues/8109#issuecomment-2799946513) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
