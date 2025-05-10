@@ -21,10 +21,13 @@ jobs:
 
       - name: Commit & Push
         run: |
+          set -o errexit
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git config --global pull.rebase true
-          git pull --rebase origin main
+          git stash || echo "Nothing to stash"
+          git pull --rebase origin main || echo "Rebase pull failed"
+          git stash pop || echo "Nothing to pop or conflict occurred"
           git add -A .
           git commit -m "generated" || echo "No changes to commit"
-          git push
+          git push origin main || echo "Push failed"
