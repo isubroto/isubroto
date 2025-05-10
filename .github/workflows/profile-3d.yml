@@ -21,15 +21,22 @@ jobs:
 
       - name: Commit & Push
         run: |
-          set -o errexit
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git config --global pull.rebase true
+      
           git stash || echo "Nothing to stash"
-          git clean -fd                 # 🔥 this is the key new line
+          git clean -fd                 # 🔥 ensure no untracked file blocks pull
           git pull --rebase origin main || echo "Rebase pull failed"
           git stash pop || echo "Nothing to pop or conflict occurred"
-          git add -A .
-          git commit -m "generated" || echo "No changes to commit"
-          git push origin main || echo "Push failed"
+      
+          # ✅ Only commit & push if changes exist
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A .
+            git commit -m "generated"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+      
 
