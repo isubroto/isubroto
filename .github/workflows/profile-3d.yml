@@ -32,7 +32,7 @@ jobs:
       
           # ✅ Only commit & push if changes exist
           if [[ -n "$(git status --porcelain)" ]]; then
-            git add -A .
+            git add .
             git commit -m "generated"
             git push origin main
           else
