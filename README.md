@@ -48,20 +48,20 @@
 
 
   <img width="12" />
-  <img src="https://api.iconify.design/devicon:javascript.svg" height="40" alt="ruby logo"  />
+  <img src="https://api.iconify.design/devicon:javascript.svg" width="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://api.iconify.design/devicon:typescript.svg" height="40" alt="dot-net logo"  />
+  <img src="https://api.iconify.design/devicon:typescript.svg" width="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://api.iconify.design/devicon:amazonwebservices-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://api.iconify.design/devicon:amazonwebservices-wordmark.svg" width="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://api.iconify.design/devicon:git.svg" height="40" alt="circleci logo"  />
+  <img src="https://api.iconify.design/devicon:git.svg" width="40" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img src="https://api.iconify.design/devicon:digitalocean.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" alt="docker logo"  />
+  <img src="https://api.iconify.design/devicon:digitalocean.svg" width="40" alt="docker logo"  />
 </div>
 
 ###
