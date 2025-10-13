@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#43](https://github.com/Xenial-Devil/Saha-ui/issues/43) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-2. 🔒 Closed issue [#42](https://github.com/Xenial-Devil/Saha-ui/issues/42) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-3. 🔒 Closed issue [#52](https://github.com/Xenial-Devil/Saha-ui/issues/52) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-4. 🔒 Closed issue [#21](https://github.com/Xenial-Devil/Saha-ui/issues/21) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-5. 🔒 Closed issue [#28](https://github.com/Xenial-Devil/Saha-ui/issues/28) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+1. 🎉 Merged PR [#67](https://github.com/Xenial-Devil/Saha-ui/pull/67) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+2. 💪 Opened PR [#67](https://github.com/Xenial-Devil/Saha-ui/pull/67) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+3. 🎉 Merged PR [#66](https://github.com/Xenial-Devil/Saha-ui/pull/66) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+4. 💪 Opened PR [#66](https://github.com/Xenial-Devil/Saha-ui/pull/66) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+5. 🔒 Closed issue [#55](https://github.com/Xenial-Devil/Saha-ui/issues/55) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
 <!--END_SECTION:activity-->
