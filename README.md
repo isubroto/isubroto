@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#78](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-2. 💪 Opened PR [#77](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-3. 💪 Opened PR [#76](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-4. 💪 Opened PR [#75](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-5. 🚀 Published release [v1.9.0](https://github.com/Xenial-Devil/Saha-ui/releases/tag/v1.9.0) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+1. 💪 Opened PR [#79](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+2. 💪 Opened PR [#78](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+3. 💪 Opened PR [#77](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+4. 💪 Opened PR [#76](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+5. 💪 Opened PR [#75](undefined) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
 <!--END_SECTION:activity-->
