@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#34](undefined) in [isubroto/rasa](https://github.com/isubroto/rasa)
-2. ❌ Merged PR [#6](undefined) in [isubroto/datekit](https://github.com/isubroto/datekit)
-3. 💪 Opened PR [#6](undefined) in [isubroto/datekit](https://github.com/isubroto/datekit)
-4. ❌ Merged PR [#5](undefined) in [isubroto/datekit](https://github.com/isubroto/datekit)
-5. 💪 Opened PR [#5](undefined) in [isubroto/datekit](https://github.com/isubroto/datekit)
+1. 💪 Opened PR [#34](https://github.com/isubroto/rasa/pull/34) in [isubroto/rasa](https://github.com/isubroto/rasa)
+2. 🎉 Merged PR [#6](https://github.com/isubroto/datekit/pull/6) in [isubroto/datekit](https://github.com/isubroto/datekit)
+3. 💪 Opened PR [#6](https://github.com/isubroto/datekit/pull/6) in [isubroto/datekit](https://github.com/isubroto/datekit)
+4. 🎉 Merged PR [#5](https://github.com/isubroto/datekit/pull/5) in [isubroto/datekit](https://github.com/isubroto/datekit)
+5. 💪 Opened PR [#5](https://github.com/isubroto/datekit/pull/5) in [isubroto/datekit](https://github.com/isubroto/datekit)
 <!--END_SECTION:activity-->
