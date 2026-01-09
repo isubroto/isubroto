@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#329014](https://github.com/microsoft/winget-pkgs/pull/329014) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 💪 Opened PR [#329014](https://github.com/microsoft/winget-pkgs/pull/329014) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 🗣 Commented on [#328999](https://github.com/microsoft/winget-pkgs/pull/328999#issuecomment-3728564922) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-4. ❌ Closed PR [#328999](https://github.com/microsoft/winget-pkgs/pull/328999) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-5. 💪 Opened PR [#328999](https://github.com/microsoft/winget-pkgs/pull/328999) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 💪 Opened PR [#329099](https://github.com/microsoft/winget-pkgs/pull/329099) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. ❌ Closed PR [#329014](https://github.com/microsoft/winget-pkgs/pull/329014) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 💪 Opened PR [#329014](https://github.com/microsoft/winget-pkgs/pull/329014) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 🗣 Commented on [#328999](https://github.com/microsoft/winget-pkgs/pull/328999#issuecomment-3728564922) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. ❌ Closed PR [#328999](https://github.com/microsoft/winget-pkgs/pull/328999) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
