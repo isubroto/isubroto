@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#330076](https://github.com/microsoft/winget-pkgs/pull/330076) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🎉 Merged PR [#329099](https://github.com/microsoft/winget-pkgs/pull/329099) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 💪 Opened PR [#329099](https://github.com/microsoft/winget-pkgs/pull/329099) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-4. ❌ Closed PR [#329014](https://github.com/microsoft/winget-pkgs/pull/329014) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-5. 💪 Opened PR [#329014](https://github.com/microsoft/winget-pkgs/pull/329014) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 🎉 Merged PR [#330076](https://github.com/microsoft/winget-pkgs/pull/330076) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 💪 Opened PR [#330076](https://github.com/microsoft/winget-pkgs/pull/330076) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 🎉 Merged PR [#329099](https://github.com/microsoft/winget-pkgs/pull/329099) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 💪 Opened PR [#329099](https://github.com/microsoft/winget-pkgs/pull/329099) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. ❌ Closed PR [#329014](https://github.com/microsoft/winget-pkgs/pull/329014) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
