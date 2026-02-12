@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#332167](https://github.com/microsoft/winget-pkgs/pull/332167) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 💪 Opened PR [#332167](https://github.com/microsoft/winget-pkgs/pull/332167) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 🎉 Merged PR [#114](https://github.com/Xenial-Devil/Saha-ui/pull/114) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-4. 💪 Opened PR [#114](https://github.com/Xenial-Devil/Saha-ui/pull/114) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-5. ❌ Closed PR [#330574](https://github.com/microsoft/winget-pkgs/pull/330574) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 💪 Opened PR [#35](https://github.com/isubroto/rasa/pull/35) in [isubroto/rasa](https://github.com/isubroto/rasa)
+2. 🎉 Merged PR [#332167](https://github.com/microsoft/winget-pkgs/pull/332167) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 💪 Opened PR [#332167](https://github.com/microsoft/winget-pkgs/pull/332167) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 🎉 Merged PR [#114](https://github.com/Xenial-Devil/Saha-ui/pull/114) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+5. 💪 Opened PR [#114](https://github.com/Xenial-Devil/Saha-ui/pull/114) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
 <!--END_SECTION:activity-->
