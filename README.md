@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/isubroto/bangla_date/pull/17) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
-2. 💪 Opened PR [#17](https://github.com/isubroto/bangla_date/pull/17) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
-3. 🎉 Merged PR [#16](https://github.com/isubroto/bangla_date/pull/16) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
-4. 💪 Opened PR [#16](https://github.com/isubroto/bangla_date/pull/16) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
-5. 🎉 Merged PR [#15](https://github.com/isubroto/bangla_date/pull/15) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
+1. 🎉 Merged PR [#18](https://github.com/isubroto/bangla_date/pull/18) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
+2. 💪 Opened PR [#18](https://github.com/isubroto/bangla_date/pull/18) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
+3. 🎉 Merged PR [#17](https://github.com/isubroto/bangla_date/pull/17) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
+4. 💪 Opened PR [#17](https://github.com/isubroto/bangla_date/pull/17) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
+5. 🎉 Merged PR [#16](https://github.com/isubroto/bangla_date/pull/16) in [isubroto/bangla_date](https://github.com/isubroto/bangla_date)
 <!--END_SECTION:activity-->
