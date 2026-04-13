@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#116](https://github.com/Xenial-Devil/Saha-ui/pull/116) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-2. 💪 Opened PR [#116](https://github.com/Xenial-Devil/Saha-ui/pull/116) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-3. 🎉 Merged PR [#115](https://github.com/Xenial-Devil/Saha-ui/pull/115) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-4. 💪 Opened PR [#115](https://github.com/Xenial-Devil/Saha-ui/pull/115) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
-5. 🎉 Merged PR [#7](https://github.com/isubroto/datekit/pull/7) in [isubroto/datekit](https://github.com/isubroto/datekit)
+1. 🎉 Merged PR [#117](https://github.com/Xenial-Devil/Saha-ui/pull/117) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+2. 💪 Opened PR [#117](https://github.com/Xenial-Devil/Saha-ui/pull/117) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+3. 🎉 Merged PR [#116](https://github.com/Xenial-Devil/Saha-ui/pull/116) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+4. 💪 Opened PR [#116](https://github.com/Xenial-Devil/Saha-ui/pull/116) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+5. 🎉 Merged PR [#115](https://github.com/Xenial-Devil/Saha-ui/pull/115) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
 <!--END_SECTION:activity-->
