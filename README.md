@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-2. 💪 Opened PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-3. 🎉 Merged PR [#1](https://github.com/isubroto/numwiz/pull/1) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-4. 💪 Opened PR [#1](https://github.com/isubroto/numwiz/pull/1) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-5. 🎉 Merged PR [#119](https://github.com/Xenial-Devil/Saha-ui/pull/119) in [Xenial-Devil/Saha-ui](https://github.com/Xenial-Devil/Saha-ui)
+1. 🎉 Merged PR [#3](https://github.com/isubroto/numwiz/pull/3) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+2. 💪 Opened PR [#3](https://github.com/isubroto/numwiz/pull/3) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+3. 🎉 Merged PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+4. 💪 Opened PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+5. 🎉 Merged PR [#1](https://github.com/isubroto/numwiz/pull/1) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
 <!--END_SECTION:activity-->
