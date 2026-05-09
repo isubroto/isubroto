@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/isubroto/numwiz/pull/3) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-2. 💪 Opened PR [#3](https://github.com/isubroto/numwiz/pull/3) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-3. 🎉 Merged PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-4. 💪 Opened PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-5. 🎉 Merged PR [#1](https://github.com/isubroto/numwiz/pull/1) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+1. 🗣 Commented on [#13734](https://github.com/gitbutlerapp/gitbutler/issues/13734#issuecomment-4413369653) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🎉 Merged PR [#3](https://github.com/isubroto/numwiz/pull/3) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+3. 💪 Opened PR [#3](https://github.com/isubroto/numwiz/pull/3) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+4. 🎉 Merged PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+5. 💪 Opened PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
 <!--END_SECTION:activity-->
