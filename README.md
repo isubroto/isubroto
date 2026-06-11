@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Xenial-Devil/neutrx/pull/2) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
-2. 💪 Opened PR [#2](https://github.com/Xenial-Devil/neutrx/pull/2) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
-3. 🗣 Commented on [#13734](https://github.com/gitbutlerapp/gitbutler/issues/13734#issuecomment-4413369653) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🎉 Merged PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
-5. 💪 Opened PR [#2](https://github.com/isubroto/numwiz/pull/2) in [isubroto/numwiz](https://github.com/isubroto/numwiz)
+1. 🚀 Published release [WUM v0.0.1.20](https://github.com/isubroto/wum/releases/tag/v0.0.1.20) in [isubroto/wum](https://github.com/isubroto/wum)
+2. 🚀 Published release [WUM v0.0.1.12](https://github.com/isubroto/wum/releases/tag/v0.0.1.12) in [isubroto/wum](https://github.com/isubroto/wum)
+3. 🚀 Published release [WUM v0.0.1.9](https://github.com/isubroto/wum/releases/tag/v0.0.1.9) in [isubroto/wum](https://github.com/isubroto/wum)
+4. 🚀 Published release [WUM v0.0.1.16](https://github.com/isubroto/wum/releases/tag/v0.0.1.16) in [isubroto/wum](https://github.com/isubroto/wum)
+5. 🚀 Published release [WUM v0.0.1.8](https://github.com/isubroto/wum/releases/tag/v0.0.1.8) in [isubroto/wum](https://github.com/isubroto/wum)
 <!--END_SECTION:activity-->
