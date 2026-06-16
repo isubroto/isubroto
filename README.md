@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#386688](https://github.com/microsoft/winget-pkgs/pull/386688) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🚀 Published release [WUM v0.0.1.20](https://github.com/isubroto/wum/releases/tag/v0.0.1.20) in [isubroto/wum](https://github.com/isubroto/wum)
-3. 🚀 Published release [WUM v0.0.1.12](https://github.com/isubroto/wum/releases/tag/v0.0.1.12) in [isubroto/wum](https://github.com/isubroto/wum)
-4. 🚀 Published release [WUM v0.0.1.9](https://github.com/isubroto/wum/releases/tag/v0.0.1.9) in [isubroto/wum](https://github.com/isubroto/wum)
-5. 🚀 Published release [WUM v0.0.1.16](https://github.com/isubroto/wum/releases/tag/v0.0.1.16) in [isubroto/wum](https://github.com/isubroto/wum)
+1. 🗣 Commented on [#386688](https://github.com/microsoft/winget-pkgs/pull/386688#issuecomment-4715394686) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 💪 Opened PR [#386688](https://github.com/microsoft/winget-pkgs/pull/386688) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 🚀 Published release [WUM v0.0.1.20](https://github.com/isubroto/wum/releases/tag/v0.0.1.20) in [isubroto/wum](https://github.com/isubroto/wum)
+4. 🚀 Published release [WUM v0.0.1.12](https://github.com/isubroto/wum/releases/tag/v0.0.1.12) in [isubroto/wum](https://github.com/isubroto/wum)
+5. 🚀 Published release [WUM v0.0.1.9](https://github.com/isubroto/wum/releases/tag/v0.0.1.9) in [isubroto/wum](https://github.com/isubroto/wum)
 <!--END_SECTION:activity-->
