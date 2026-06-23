@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/Xenial-Devil/neutrx/pull/6) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
-2. 💪 Opened PR [#5](https://github.com/Xenial-Devil/neutrx/pull/5) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
-3. 💪 Opened PR [#4](https://github.com/Xenial-Devil/neutrx/pull/4) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
-4. 💪 Opened PR [#3](https://github.com/Xenial-Devil/neutrx/pull/3) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
-5. 🎉 Merged PR [#5](https://github.com/Xenial-Devil/neutrx/pull/5) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
+1. 🎉 Merged PR [#8](https://github.com/Xenial-Devil/neutrx/pull/8) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
+2. 💪 Opened PR [#8](https://github.com/Xenial-Devil/neutrx/pull/8) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
+3. 💪 Opened PR [#7](https://github.com/Xenial-Devil/neutrx/pull/7) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
+4. 💪 Opened PR [#6](https://github.com/Xenial-Devil/neutrx/pull/6) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
+5. 💪 Opened PR [#5](https://github.com/Xenial-Devil/neutrx/pull/5) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
 <!--END_SECTION:activity-->
