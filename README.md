@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#392377](https://github.com/microsoft/winget-pkgs/pull/392377) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 💪 Opened PR [#1](https://github.com/isubroto/wum/pull/1) in [isubroto/wum](https://github.com/isubroto/wum)
-3. 💪 Opened PR [#10](https://github.com/Xenial-Devil/neutrx/pull/10) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
-4. 💪 Opened PR [#9](https://github.com/Xenial-Devil/neutrx/pull/9) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
-5. 🎉 Merged PR [#8](https://github.com/Xenial-Devil/neutrx/pull/8) in [Xenial-Devil/neutrx](https://github.com/Xenial-Devil/neutrx)
+1. 💪 Opened PR [#394220](https://github.com/microsoft/winget-pkgs/pull/394220) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🎉 Merged PR [#3](https://github.com/isubroto/wum/pull/3) in [isubroto/wum](https://github.com/isubroto/wum)
+3. 💪 Opened PR [#3](https://github.com/isubroto/wum/pull/3) in [isubroto/wum](https://github.com/isubroto/wum)
+4. 🎉 Merged PR [#2](https://github.com/isubroto/wum/pull/2) in [isubroto/wum](https://github.com/isubroto/wum)
+5. 💪 Opened PR [#2](https://github.com/isubroto/wum/pull/2) in [isubroto/wum](https://github.com/isubroto/wum)
 <!--END_SECTION:activity-->
