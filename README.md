@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#401741](https://github.com/microsoft/winget-pkgs/pull/401741) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🎉 Merged PR [#11](https://github.com/isubroto/wum/pull/11) in [isubroto/wum](https://github.com/isubroto/wum)
-3. 💪 Opened PR [#11](https://github.com/isubroto/wum/pull/11) in [isubroto/wum](https://github.com/isubroto/wum)
-4. 🎉 Merged PR [#396348](https://github.com/microsoft/winget-pkgs/pull/396348) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-5. 💪 Opened PR [#396348](https://github.com/microsoft/winget-pkgs/pull/396348) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 🎉 Merged PR [#401741](https://github.com/microsoft/winget-pkgs/pull/401741) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. ℹ️ Labeled issue [#7065](https://github.com/diegosouzapw/OmniRoute/issues/7065) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+3. ❗ Opened issue [#7065](https://github.com/diegosouzapw/OmniRoute/issues/7065) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+4. 💪 Opened PR [#401741](https://github.com/microsoft/winget-pkgs/pull/401741) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. 🎉 Merged PR [#11](https://github.com/isubroto/wum/pull/11) in [isubroto/wum](https://github.com/isubroto/wum)
 <!--END_SECTION:activity-->
