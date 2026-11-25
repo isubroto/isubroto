@@ -109,9 +109,9 @@ new section
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#487755](https://github.com/microsoft/winget-pkgs/pull/487755) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 💪 Opened PR [#487755](https://github.com/microsoft/winget-pkgs/pull/487755) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 🎉 Merged PR [#12](https://github.com/isubroto/wum/pull/12) in [isubroto/wum](https://github.com/isubroto/wum)
-4. 💪 Opened PR [#12](https://github.com/isubroto/wum/pull/12) in [isubroto/wum](https://github.com/isubroto/wum)
-5. 🎉 Merged PR [#11](https://github.com/isubroto/wum/pull/11) in [isubroto/wum](https://github.com/isubroto/wum)
+1. 🎉 Merged PR [#1](https://github.com/isubroto/swoopdl/pull/1) in [isubroto/swoopdl](https://github.com/isubroto/swoopdl)
+2. 💪 Opened PR [#1](https://github.com/isubroto/swoopdl/pull/1) in [isubroto/swoopdl](https://github.com/isubroto/swoopdl)
+3. 🎉 Merged PR [#487755](https://github.com/microsoft/winget-pkgs/pull/487755) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 💪 Opened PR [#487755](https://github.com/microsoft/winget-pkgs/pull/487755) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. 🎉 Merged PR [#12](https://github.com/isubroto/wum/pull/12) in [isubroto/wum](https://github.com/isubroto/wum)
 <!--END_SECTION:activity-->
